@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>D3 Test</title>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://dimplejs.org/dist/dimple.v2.0.0.min.js"></script>
+    <script type="text/javascript">
+        function draw(data) {
+            width = 1366;
+            height = 786;
+            // debugger;
+            var svg = new dimple.newSvg("body", width, height);
+            var mychart = new dimple.chart(svg,data.slice(0,500));
+            mychart.setBounds(75,30,width,height);
+            mychart.addMeasureAxis('x', 'Submissions');
+            mychart.addCategoryAxis('y','Author').addOrderRule("Submissions");
+
+            mychart.addSeries("Venue", dimple.plot.bar);
+            mychart.addLegend((60,10,510,20,"right"));
+            mychart.draw();
+            // debugger;
+        }
+
+    </script>
+</head>
+<body>
+<script type="text/javascript">
+    // Your beautiful D3 code will go here
+    // var dataset = [5, 10, 15, 20, 25]
+    // d3.select("body").selectAll("p")
+    // .data(dataset)
+    // .enter()
+    // .append("p")
+    // .text(function (d) {
+    //     return d;
+    // });
+    d3.csv(
+        "venues.csv"
+        ,draw
+    )
+</script>
+</body>
+</html>
