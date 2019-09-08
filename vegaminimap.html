@@ -30,6 +30,9 @@
             url: "venues.csv"
         },
         hconcat: [{
+            transform:[{
+                filter:{selection:"brush"}
+            }],
             mark: {
                 type: 'bar'
             },
@@ -42,17 +45,23 @@
                         orient: "top"
                     },
                     aggregate: "sum"
-                    // scale:{domain:[0,100]}
                 },
                 y: {
                     field: 'Author',
                     type: 'nominal',
                     axis: {
-                        title: 'Authors',
-                        // minExtent:200
+                        title: null,
+                        minExtent:200
                     },
                     sort: "-x",
                     scale:{domain:{selection: "brush"}}
+                },
+                color:{
+                    condition: {
+                        selection: "brush",
+                        field: "Venue",
+                        type: "nominal",
+                    }
                 }
             }},
             {
