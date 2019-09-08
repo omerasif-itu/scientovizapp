@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Vega Lite CrossFilter
+    </title>
+    <meta charset="utf-8"/>
+<!--    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>-->
+<!--    <script src="https://cdn.jsdelivr.net/npm/vega-lite@3"></script>-->
+<!--    <script src="https://cdn.jsdelivr.net/npm/vega-embed@4"></script>-->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.4.0/build/vega.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.0.0-beta.1/build/vega-lite.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@5.1.2/build/vega-embed.js"></script>
+    <style media="screen">
+        .vega-actions a{
+            margin-right: 5px;
+        }
+    </style>
+</head>
+<body>
+<h1>
+    We are getting started with vega.
+</h1>
+<div id="vis"></div>
+
+<script>
+    var vegsp = {
+        $schema: 'https://vega.github.io/schema/vega-lite/v4.json',
+        data: {
+            url: "venues.csv"
+        },
+        hconcat: [{
+            mark: {
+                type: 'bar'
+            },
+            encoding: {
+                x: {
+                    field: 'Submissions',
+                    type: 'quantitative',
+                    axis: {
+                        title: "Submissions",
+                        orient: "top"
+                    },
+                    aggregate: "sum"
+                    // scale:{domain:[0,100]}
+                },
+                y: {
+                    field: 'Author',
+                    type: 'nominal',
+                    axis: {
+                        title: 'Authors',
+                        // minExtent:200
+                    },
+                    sort: "-x",
+                    scale:{domain:{selection: "brush"}}
+                }
+            }},
+            {
+                height: 200,
+                width:50,
+                selection:{
+                    brush:{
+                        type:"interval",
+                        encodings:["y"]
+                    }
+                },
+                mark: "bar",
+                encoding:{
+                    y:{
+                        field:"Author",
+                        type: "nominal",
+                        sort:'-x',
+                        axis: null
+                    },
+                    x:{
+                        field:"Submissions",
+                        aggregate:'sum',
+                        type:'quantitative',
+                        axis:null
+                    }
+                }
+            }
+        ]
+    }
+    vegaEmbed("#vis", vegsp);
+
+</script>
+</body>
+
+
+</html>
