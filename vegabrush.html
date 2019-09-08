@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Vega Lite Barchart
+    </title>
+    <meta charset="utf-8"/>
+<!--    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>-->
+<!--    <script src="https://cdn.jsdelivr.net/npm/vega-lite@3"></script>-->
+<!--    <script src="https://cdn.jsdelivr.net/npm/vega-embed@4"></script>-->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.4.0/build/vega.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.0.0-beta.1/build/vega-lite.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@5.1.2/build/vega-embed.js"></script>
+    <style media="screen">
+        .vega-actions a{
+            margin-right: 5px;
+        }
+    </style>
+</head>
+<body>
+<h1>
+    We are getting started with vega.
+</h1>
+<div id="vis"></div>
+
+<script>
+    var vegsp = {
+        $schema: 'https://vega.github.io/schema/vega-lite/v4.json',
+        data: {
+            url: "venues.csv"
+        },
+        selection: {
+            brush: {
+                type: "interval"
+            }
+        },
+        mark: {
+            type: 'bar',
+            clip: true
+        },
+        encoding: {
+            x: {
+                field: 'Submissions',
+                type: 'quantitative',
+                axis: {
+                    title: "Submissions"
+                },
+                aggregate: "sum",
+                stack: ""
+            },
+            y: {
+                field: 'Author',
+                type: 'nominal',
+                axis: {
+                    title: 'Authors'
+                },
+                sort: "acsending"
+            },
+            color: {
+                condition: {
+                    selection: "brush",
+                    field: "Venue",
+                    type: "nominal",
+                },
+                value: "transparent",
+            },
+            size: {
+                field: "Submissions",
+                type: "quantitative"
+            }
+        }
+    }
+    vegaEmbed("#vis", vegsp);
+
+</script>
+</body>
+
+
+</html>
