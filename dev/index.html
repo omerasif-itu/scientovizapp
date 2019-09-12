@@ -15,7 +15,6 @@
             mychart.setBounds(75,30,width,height);
             mychart.addMeasureAxis('x', 'Submissions');
             mychart.addCategoryAxis('y','Author').addOrderRule("Submissions");
-
             mychart.addSeries("Venue", dimple.plot.bar);
             mychart.addLegend((60,10,510,20,"right"));
             mychart.draw();

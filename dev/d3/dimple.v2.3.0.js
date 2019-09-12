@@ -8,11 +8,11 @@
 
     if (typeof exports === "object") {
         // CommonJS
-        module.exports = dimple(require('d3'));
+        module.exports = dimple(require('dev/d3/d3'));
     } else {
         if (typeof define === "function" && define.amd) {
             // RequireJS | AMD
-            define(["d3"], function (d3) {
+            define(["dev/d3/d3"], function (d3) {
                 // publish dimple to the global namespace for backwards compatibility
                 // and define it as an AMD module
                 context.dimple = dimple(d3);
