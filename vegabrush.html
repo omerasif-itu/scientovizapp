@@ -35,8 +35,7 @@
             }
         },
         mark: {
-            type: 'bar',
-            clip: true
+            type: 'bar'
         },
         encoding: {
             x: {
@@ -71,7 +70,7 @@
             }
         }
     }
-    vegaEmbed("#vis", vegsp);
+    vegaEmbed("#vis", vegsp, {theme: "latimes"});
 
 </script>
 </body>
