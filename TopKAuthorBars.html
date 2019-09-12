@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Vega Lite CrossFilter
+    </title>
+    <meta charset="utf-8"/>
+    <!--    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>-->
+    <!--    <script src="https://cdn.jsdelivr.net/npm/vega-lite@3"></script>-->
+    <!--    <script src="https://cdn.jsdelivr.net/npm/vega-embed@4"></script>-->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.4.0/build/vega.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.0.0-beta.1/build/vega-lite.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@5.1.2/build/vega-embed.js"></script>
+    <style media="screen">
+        .vega-actions a{
+            margin-right: 5px;
+        }
+    </style>
+</head>
+<body>
+<h1>
+    We are getting started with vega.
+</h1>
+<div id="vis"></div>
+
+<script>
+    var vegsp = {
+        "$schema": "https://vega.github.io/schema/vega/v4.json",
+        "width": 500,
+        "height": 410,
+        "padding": 5,
+        "autosize": "fit",
+        "signals": [
+            {
+                "name": "selected",
+                "value": "",
+                "on": [
+                    { "events": "arc:click!", "update": "datum" },
+                    { "events": "dblclick!", "update": "''" }
+                ]
+            },
+            {
+                "name": "k", "value": 10,
+                "bind": {"input": "range", "min": 1, "max": 100, "step": 5}
+            },
+            {
+                "name": "op", "value": "average",
+                "bind": {"input": "select", "options": ["average", "median", "sum"]}
+            },
+            {
+                "name": "label",
+                "value": {"average": "Average", "median": "Median", "sum": "Total"}
+            }
+        ],
+
+        "title": {
+            "text": {"signal": "'Top Authors by ' + label[op] + ' Publications'"},
+            "anchor": "start",
+            "frame": "group"
+        },
+        "data": [
+            {
+                "name": "venues",
+                "url": "venues.json",
+                "transform": [
+                    {
+                        "type": "filter",
+                        "expr": "datum.Submissions != null && datum.Author != null"
+                    },
+                    {
+                        "type": "aggregate",
+                        "groupby": ["Author"],
+                        "ops": [{"signal": "op"}],
+                        "fields": ["Submissions"],
+                        "as": ["pub_count"]
+                    },
+                    {
+                        "type": "window",
+                        "sort": {"field": "pub_count", "order": "descending"},
+                        "ops": ["row_number"], "as": ["rank"]
+                    },
+                    {
+                        "type": "filter",
+                        "expr": "datum.rank <= k"
+                    }
+                ]
+            }
+        ],
+
+        "marks": [
+            {
+                "type": "rect",
+                "from": {"data": "venues"},
+                "encode": {
+                    "update": {
+                        "x": {"scale": "x", "value": 0},
+                        "x2": {"scale": "x", "field": "pub_count"},
+                        "y": {"scale": "y", "field": "Author"},
+                        "height": {"scale": "y", "band": 1},
+                        "tooltip":{"signal":"datum"}
+                    }
+                }
+            }
+        ],
+        "scales": [
+            {
+                "name": "x",
+                "type": "linear",
+                "domain": {"data": "venues", "field": "pub_count"},
+                "range": "width",
+                "nice": true
+            },
+            {
+                "name": "y",
+                "type": "band",
+                "domain": {
+                    "data": "venues", "field": "Author",
+                    "sort": {"op": "max", "field": "pub_count", "order": "descending"}
+                },
+                "range": "height",
+                "padding": 0.1
+            }
+        ],
+        "axes": [
+            {
+                "scale": "x",
+                "orient": "bottom",
+                "format": "d",
+                "tickCount": 3
+            },
+            {
+                "scale": "y",
+                "orient": "left"
+            }
+        ]
+
+    }
+    vegaEmbed("#vis", vegsp);
+
+</script>
+</body>
+
+
+</html>

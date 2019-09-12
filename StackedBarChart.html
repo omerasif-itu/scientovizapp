@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Publication Count | Venues
+    </title>
+    <meta charset="utf-8"/>
+    <!--    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>-->
+    <!--    <script src="https://cdn.jsdelivr.net/npm/vega-lite@3"></script>-->
+    <!--    <script src="https://cdn.jsdelivr.net/npm/vega-embed@4"></script>-->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.4.0/build/vega.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.0.0-beta.1/build/vega-lite.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@5.1.2/build/vega-embed.js"></script>
+    <style media="screen">
+        .vega-actions a{
+            margin-right: 5px;
+        }
+    </style>
+</head>
+<body>
+<h1>
+    We are getting started with vega.
+</h1>
+<div id="vis"></div>
+
+<script>
+    var vegsp = {
+        "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+        "data": {"url": "venues.csv"},
+        "mark": "bar",
+        "encoding": {
+            "x": {
+                "field": "Submissions",
+                "type": "quantitative",
+                "aggregate":"sum",
+                "axis": {"title": "Submissions"}
+            },
+            "y": {
+                "field": "Author",
+                "type": "nominal",
+                "sort":"acsending"
+
+            },
+            "color": {
+                "field": "Venue",
+                "type": "nominal",
+                "scale": {
+                    "domain": ["SIGCOMM", "IMC", "CoNext", "ICN", "E-Energy", "SenSys","SoSR","LANC","HotNets","ANRW","ANCS"],
+                    "range": ["#e7ba52", "#c7c7c7", "#aec7e8", "#1f77b4", "#9467bd",
+                        "#0d1db5",'#8315b5','#0aaeb5','#10b578',
+                        '#b53c03','#b50033','#68adb5']
+                },
+                "legend": {"title": "Venues"}
+            },
+            "tooltip":[
+                {
+                    "field": "Author",
+                    "type":"nominal"
+                },
+                {
+                    "field": "Submissions",
+                    "type":"quantitative"
+                },
+                {
+                    "field":"Venue",
+                    "type":"nominal"
+
+                }
+            ]
+        }
+
+    }
+    vegaEmbed("#vis", vegsp);
+
+</script>
+</body>
+
+
+</html>
