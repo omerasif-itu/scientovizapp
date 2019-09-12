@@ -1,0 +1,6987 @@
+[
+ {
+   "Author": "Scott Shenker",
+   "Venue": "SIGCOMM",
+   "Submissions": 54
+ },
+ {
+   "Author": "Scott Shenker",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Scott Shenker",
+   "Venue": "CoNext",
+   "Submissions": 2
+ },
+ {
+   "Author": "Scott Shenker",
+   "Venue": "ICN",
+   "Submissions": 2
+ },
+ {
+   "Author": "Scott Shenker",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Scott Shenker",
+   "Venue": "SenSys",
+   "Submissions": 5
+ },
+ {
+   "Author": "Scott Shenker",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Scott Shenker",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Scott Shenker",
+   "Venue": "HotNets",
+   "Submissions": 24
+ },
+ {
+   "Author": "Scott Shenker",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Scott Shenker",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jennifer Rexford",
+   "Venue": "SIGCOMM",
+   "Submissions": 28
+ },
+ {
+   "Author": "Jennifer Rexford",
+   "Venue": "IMC",
+   "Submissions": 4
+ },
+ {
+   "Author": "Jennifer Rexford",
+   "Venue": "CoNext",
+   "Submissions": 18
+ },
+ {
+   "Author": "Jennifer Rexford",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jennifer Rexford",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jennifer Rexford",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jennifer Rexford",
+   "Venue": "SoSR",
+   "Submissions": 11
+ },
+ {
+   "Author": "Jennifer Rexford",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jennifer Rexford",
+   "Venue": "HotNets",
+   "Submissions": 11
+ },
+ {
+   "Author": "Jennifer Rexford",
+   "Venue": "ANRW",
+   "Submissions": 1
+ },
+ {
+   "Author": "Jennifer Rexford",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Nick Feamster",
+   "Venue": "SIGCOMM",
+   "Submissions": 28
+ },
+ {
+   "Author": "Nick Feamster",
+   "Venue": "IMC",
+   "Submissions": 14
+ },
+ {
+   "Author": "Nick Feamster",
+   "Venue": "CoNext",
+   "Submissions": 5
+ },
+ {
+   "Author": "Nick Feamster",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Nick Feamster",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Nick Feamster",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Nick Feamster",
+   "Venue": "SoSR",
+   "Submissions": 5
+ },
+ {
+   "Author": "Nick Feamster",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Nick Feamster",
+   "Venue": "HotNets",
+   "Submissions": 7
+ },
+ {
+   "Author": "Nick Feamster",
+   "Venue": "ANRW",
+   "Submissions": 3
+ },
+ {
+   "Author": "Nick Feamster",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hari Balakrishnan",
+   "Venue": "SIGCOMM",
+   "Submissions": 21
+ },
+ {
+   "Author": "Hari Balakrishnan",
+   "Venue": "IMC",
+   "Submissions": 6
+ },
+ {
+   "Author": "Hari Balakrishnan",
+   "Venue": "CoNext",
+   "Submissions": 1
+ },
+ {
+   "Author": "Hari Balakrishnan",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hari Balakrishnan",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hari Balakrishnan",
+   "Venue": "SenSys",
+   "Submissions": 12
+ },
+ {
+   "Author": "Hari Balakrishnan",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hari Balakrishnan",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hari Balakrishnan",
+   "Venue": "HotNets",
+   "Submissions": 12
+ },
+ {
+   "Author": "Hari Balakrishnan",
+   "Venue": "ANRW",
+   "Submissions": 3
+ },
+ {
+   "Author": "Hari Balakrishnan",
+   "Venue": "ANCS",
+   "Submissions": 2
+ },
+ {
+   "Author": "Ramesh Govindan",
+   "Venue": "SIGCOMM",
+   "Submissions": 18
+ },
+ {
+   "Author": "Ramesh Govindan",
+   "Venue": "IMC",
+   "Submissions": 6
+ },
+ {
+   "Author": "Ramesh Govindan",
+   "Venue": "CoNext",
+   "Submissions": 7
+ },
+ {
+   "Author": "Ramesh Govindan",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ramesh Govindan",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ramesh Govindan",
+   "Venue": "SenSys",
+   "Submissions": 19
+ },
+ {
+   "Author": "Ramesh Govindan",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ramesh Govindan",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ramesh Govindan",
+   "Venue": "HotNets",
+   "Submissions": 3
+ },
+ {
+   "Author": "Ramesh Govindan",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ramesh Govindan",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Aditya Akella",
+   "Venue": "SIGCOMM",
+   "Submissions": 19
+ },
+ {
+   "Author": "Aditya Akella",
+   "Venue": "IMC",
+   "Submissions": 13
+ },
+ {
+   "Author": "Aditya Akella",
+   "Venue": "CoNext",
+   "Submissions": 3
+ },
+ {
+   "Author": "Aditya Akella",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Aditya Akella",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Aditya Akella",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Aditya Akella",
+   "Venue": "SoSR",
+   "Submissions": 2
+ },
+ {
+   "Author": "Aditya Akella",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Aditya Akella",
+   "Venue": "HotNets",
+   "Submissions": 12
+ },
+ {
+   "Author": "Aditya Akella",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Aditya Akella",
+   "Venue": "ANCS",
+   "Submissions": 2
+ },
+ {
+   "Author": "Ion Stoica",
+   "Venue": "SIGCOMM",
+   "Submissions": 32
+ },
+ {
+   "Author": "Ion Stoica",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ion Stoica",
+   "Venue": "CoNext",
+   "Submissions": 5
+ },
+ {
+   "Author": "Ion Stoica",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ion Stoica",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ion Stoica",
+   "Venue": "SenSys",
+   "Submissions": 3
+ },
+ {
+   "Author": "Ion Stoica",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ion Stoica",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ion Stoica",
+   "Venue": "HotNets",
+   "Submissions": 10
+ },
+ {
+   "Author": "Ion Stoica",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ion Stoica",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Vyas Sekar",
+   "Venue": "SIGCOMM",
+   "Submissions": 17
+ },
+ {
+   "Author": "Vyas Sekar",
+   "Venue": "IMC",
+   "Submissions": 8
+ },
+ {
+   "Author": "Vyas Sekar",
+   "Venue": "CoNext",
+   "Submissions": 8
+ },
+ {
+   "Author": "Vyas Sekar",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Vyas Sekar",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Vyas Sekar",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Vyas Sekar",
+   "Venue": "SoSR",
+   "Submissions": 1
+ },
+ {
+   "Author": "Vyas Sekar",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Vyas Sekar",
+   "Venue": "HotNets",
+   "Submissions": 12
+ },
+ {
+   "Author": "Vyas Sekar",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Vyas Sekar",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Seshan",
+   "Venue": "SIGCOMM",
+   "Submissions": 21
+ },
+ {
+   "Author": "Srinivasan Seshan",
+   "Venue": "IMC",
+   "Submissions": 5
+ },
+ {
+   "Author": "Srinivasan Seshan",
+   "Venue": "CoNext",
+   "Submissions": 5
+ },
+ {
+   "Author": "Srinivasan Seshan",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Seshan",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Seshan",
+   "Venue": "SenSys",
+   "Submissions": 2
+ },
+ {
+   "Author": "Srinivasan Seshan",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Seshan",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Seshan",
+   "Venue": "HotNets",
+   "Submissions": 8
+ },
+ {
+   "Author": "Srinivasan Seshan",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Seshan",
+   "Venue": "ANCS",
+   "Submissions": 1
+ },
+ {
+   "Author": "Ratul Mahajan",
+   "Venue": "SIGCOMM",
+   "Submissions": 24
+ },
+ {
+   "Author": "Ratul Mahajan",
+   "Venue": "IMC",
+   "Submissions": 8
+ },
+ {
+   "Author": "Ratul Mahajan",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ratul Mahajan",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ratul Mahajan",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ratul Mahajan",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ratul Mahajan",
+   "Venue": "SoSR",
+   "Submissions": 1
+ },
+ {
+   "Author": "Ratul Mahajan",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ratul Mahajan",
+   "Venue": "HotNets",
+   "Submissions": 8
+ },
+ {
+   "Author": "Ratul Mahajan",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ratul Mahajan",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Vern Paxson",
+   "Venue": "SIGCOMM",
+   "Submissions": 10
+ },
+ {
+   "Author": "Vern Paxson",
+   "Venue": "IMC",
+   "Submissions": 23
+ },
+ {
+   "Author": "Vern Paxson",
+   "Venue": "CoNext",
+   "Submissions": 1
+ },
+ {
+   "Author": "Vern Paxson",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Vern Paxson",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Vern Paxson",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Vern Paxson",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Vern Paxson",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Vern Paxson",
+   "Venue": "HotNets",
+   "Submissions": 6
+ },
+ {
+   "Author": "Vern Paxson",
+   "Venue": "ANRW",
+   "Submissions": 1
+ },
+ {
+   "Author": "Vern Paxson",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Anja Feldmann",
+   "Venue": "SIGCOMM",
+   "Submissions": 15
+ },
+ {
+   "Author": "Anja Feldmann",
+   "Venue": "IMC",
+   "Submissions": 17
+ },
+ {
+   "Author": "Anja Feldmann",
+   "Venue": "CoNext",
+   "Submissions": 4
+ },
+ {
+   "Author": "Anja Feldmann",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Anja Feldmann",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Anja Feldmann",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Anja Feldmann",
+   "Venue": "SoSR",
+   "Submissions": 2
+ },
+ {
+   "Author": "Anja Feldmann",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Anja Feldmann",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Anja Feldmann",
+   "Venue": "ANRW",
+   "Submissions": 2
+ },
+ {
+   "Author": "Anja Feldmann",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Prabal Dutta",
+   "Venue": "SIGCOMM",
+   "Submissions": 0
+ },
+ {
+   "Author": "Prabal Dutta",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Prabal Dutta",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Prabal Dutta",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Prabal Dutta",
+   "Venue": "E-Energy",
+   "Submissions": 1
+ },
+ {
+   "Author": "Prabal Dutta",
+   "Venue": "SenSys",
+   "Submissions": 34
+ },
+ {
+   "Author": "Prabal Dutta",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Prabal Dutta",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Prabal Dutta",
+   "Venue": "HotNets",
+   "Submissions": 4
+ },
+ {
+   "Author": "Prabal Dutta",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Prabal Dutta",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Dina Katabi",
+   "Venue": "SIGCOMM",
+   "Submissions": 33
+ },
+ {
+   "Author": "Dina Katabi",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Dina Katabi",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Dina Katabi",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Dina Katabi",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Dina Katabi",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Dina Katabi",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Dina Katabi",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Dina Katabi",
+   "Venue": "HotNets",
+   "Submissions": 6
+ },
+ {
+   "Author": "Dina Katabi",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Dina Katabi",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Konstantina Papagiannaki ",
+   "Venue": "SIGCOMM",
+   "Submissions": 5
+ },
+ {
+   "Author": "Konstantina Papagiannaki ",
+   "Venue": "IMC",
+   "Submissions": 15
+ },
+ {
+   "Author": "Konstantina Papagiannaki ",
+   "Venue": "CoNext",
+   "Submissions": 13
+ },
+ {
+   "Author": "Konstantina Papagiannaki ",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Konstantina Papagiannaki ",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Konstantina Papagiannaki ",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Konstantina Papagiannaki ",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Konstantina Papagiannaki ",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Konstantina Papagiannaki ",
+   "Venue": "HotNets",
+   "Submissions": 5
+ },
+ {
+   "Author": "Konstantina Papagiannaki ",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Konstantina Papagiannaki ",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jon Crowcroft",
+   "Venue": "SIGCOMM",
+   "Submissions": 14
+ },
+ {
+   "Author": "Jon Crowcroft",
+   "Venue": "IMC",
+   "Submissions": 5
+ },
+ {
+   "Author": "Jon Crowcroft",
+   "Venue": "CoNext",
+   "Submissions": 6
+ },
+ {
+   "Author": "Jon Crowcroft",
+   "Venue": "ICN",
+   "Submissions": 3
+ },
+ {
+   "Author": "Jon Crowcroft",
+   "Venue": "E-Energy",
+   "Submissions": 4
+ },
+ {
+   "Author": "Jon Crowcroft",
+   "Venue": "SenSys",
+   "Submissions": 3
+ },
+ {
+   "Author": "Jon Crowcroft",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jon Crowcroft",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jon Crowcroft",
+   "Venue": "HotNets",
+   "Submissions": 2
+ },
+ {
+   "Author": "Jon Crowcroft",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jon Crowcroft",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Arvind Krishnamurthy",
+   "Venue": "SIGCOMM",
+   "Submissions": 15
+ },
+ {
+   "Author": "Arvind Krishnamurthy",
+   "Venue": "IMC",
+   "Submissions": 13
+ },
+ {
+   "Author": "Arvind Krishnamurthy",
+   "Venue": "CoNext",
+   "Submissions": 2
+ },
+ {
+   "Author": "Arvind Krishnamurthy",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Arvind Krishnamurthy",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Arvind Krishnamurthy",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Arvind Krishnamurthy",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Arvind Krishnamurthy",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Arvind Krishnamurthy",
+   "Venue": "HotNets",
+   "Submissions": 7
+ },
+ {
+   "Author": "Arvind Krishnamurthy",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Arvind Krishnamurthy",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Deborah Estrin",
+   "Venue": "SIGCOMM",
+   "Submissions": 10
+ },
+ {
+   "Author": "Deborah Estrin",
+   "Venue": "IMC",
+   "Submissions": 1
+ },
+ {
+   "Author": "Deborah Estrin",
+   "Venue": "CoNext",
+   "Submissions": 1
+ },
+ {
+   "Author": "Deborah Estrin",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Deborah Estrin",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Deborah Estrin",
+   "Venue": "SenSys",
+   "Submissions": 23
+ },
+ {
+   "Author": "Deborah Estrin",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Deborah Estrin",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Deborah Estrin",
+   "Venue": "HotNets",
+   "Submissions": 1
+ },
+ {
+   "Author": "Deborah Estrin",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Deborah Estrin",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sachin Katti",
+   "Venue": "SIGCOMM",
+   "Submissions": 20
+ },
+ {
+   "Author": "Sachin Katti",
+   "Venue": "IMC",
+   "Submissions": 2
+ },
+ {
+   "Author": "Sachin Katti",
+   "Venue": "CoNext",
+   "Submissions": 4
+ },
+ {
+   "Author": "Sachin Katti",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sachin Katti",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sachin Katti",
+   "Venue": "SenSys",
+   "Submissions": 2
+ },
+ {
+   "Author": "Sachin Katti",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sachin Katti",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sachin Katti",
+   "Venue": "HotNets",
+   "Submissions": 8
+ },
+ {
+   "Author": "Sachin Katti",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sachin Katti",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Tian He",
+   "Venue": "SIGCOMM",
+   "Submissions": 0
+ },
+ {
+   "Author": "Tian He",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Tian He",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Tian He",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Tian He",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Tian He",
+   "Venue": "SenSys",
+   "Submissions": 35
+ },
+ {
+   "Author": "Tian He",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Tian He",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Tian He",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Tian He",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Tian He",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hui Zhang",
+   "Venue": "SIGCOMM",
+   "Submissions": 19
+ },
+ {
+   "Author": "Hui Zhang",
+   "Venue": "IMC",
+   "Submissions": 5
+ },
+ {
+   "Author": "Hui Zhang",
+   "Venue": "CoNext",
+   "Submissions": 4
+ },
+ {
+   "Author": "Hui Zhang",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hui Zhang",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hui Zhang",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hui Zhang",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hui Zhang",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hui Zhang",
+   "Venue": "HotNets",
+   "Submissions": 5
+ },
+ {
+   "Author": "Hui Zhang",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hui Zhang",
+   "Venue": "ANCS",
+   "Submissions": 1
+ },
+ {
+   "Author": "George Varghese",
+   "Venue": "SIGCOMM",
+   "Submissions": 26
+ },
+ {
+   "Author": "George Varghese",
+   "Venue": "IMC",
+   "Submissions": 3
+ },
+ {
+   "Author": "George Varghese",
+   "Venue": "CoNext",
+   "Submissions": 1
+ },
+ {
+   "Author": "George Varghese",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "George Varghese",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "George Varghese",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "George Varghese",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "George Varghese",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "George Varghese",
+   "Venue": "HotNets",
+   "Submissions": 2
+ },
+ {
+   "Author": "George Varghese",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "George Varghese",
+   "Venue": "ANCS",
+   "Submissions": 2
+ },
+ {
+   "Author": "Amin Vahdat",
+   "Venue": "SIGCOMM",
+   "Submissions": 23
+ },
+ {
+   "Author": "Amin Vahdat",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Amin Vahdat",
+   "Venue": "CoNext",
+   "Submissions": 3
+ },
+ {
+   "Author": "Amin Vahdat",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Amin Vahdat",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Amin Vahdat",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Amin Vahdat",
+   "Venue": "SoSR",
+   "Submissions": 1
+ },
+ {
+   "Author": "Amin Vahdat",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Amin Vahdat",
+   "Venue": "HotNets",
+   "Submissions": 2
+ },
+ {
+   "Author": "Amin Vahdat",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Amin Vahdat",
+   "Venue": "ANCS",
+   "Submissions": 5
+ },
+ {
+   "Author": "Lixia Zhang",
+   "Venue": "SIGCOMM",
+   "Submissions": 8
+ },
+ {
+   "Author": "Lixia Zhang",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lixia Zhang",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lixia Zhang",
+   "Venue": "ICN",
+   "Submissions": 23
+ },
+ {
+   "Author": "Lixia Zhang",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lixia Zhang",
+   "Venue": "SenSys",
+   "Submissions": 1
+ },
+ {
+   "Author": "Lixia Zhang",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lixia Zhang",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lixia Zhang",
+   "Venue": "HotNets",
+   "Submissions": 1
+ },
+ {
+   "Author": "Lixia Zhang",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lixia Zhang",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Nick McKeown",
+   "Venue": "SIGCOMM",
+   "Submissions": 19
+ },
+ {
+   "Author": "Nick McKeown",
+   "Venue": "IMC",
+   "Submissions": 2
+ },
+ {
+   "Author": "Nick McKeown",
+   "Venue": "CoNext",
+   "Submissions": 3
+ },
+ {
+   "Author": "Nick McKeown",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Nick McKeown",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Nick McKeown",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Nick McKeown",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Nick McKeown",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Nick McKeown",
+   "Venue": "HotNets",
+   "Submissions": 4
+ },
+ {
+   "Author": "Nick McKeown",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Nick McKeown",
+   "Venue": "ANCS",
+   "Submissions": 5
+ },
+ {
+   "Author": "John A. Stankovic",
+   "Venue": "SIGCOMM",
+   "Submissions": 0
+ },
+ {
+   "Author": "John A. Stankovic",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "John A. Stankovic",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "John A. Stankovic",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "John A. Stankovic",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "John A. Stankovic",
+   "Venue": "SenSys",
+   "Submissions": 32
+ },
+ {
+   "Author": "John A. Stankovic",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "John A. Stankovic",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "John A. Stankovic",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "John A. Stankovic",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "John A. Stankovic",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sylvia Ratnasamy",
+   "Venue": "SIGCOMM",
+   "Submissions": 17
+ },
+ {
+   "Author": "Sylvia Ratnasamy",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sylvia Ratnasamy",
+   "Venue": "CoNext",
+   "Submissions": 4
+ },
+ {
+   "Author": "Sylvia Ratnasamy",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sylvia Ratnasamy",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sylvia Ratnasamy",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sylvia Ratnasamy",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sylvia Ratnasamy",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sylvia Ratnasamy",
+   "Venue": "HotNets",
+   "Submissions": 11
+ },
+ {
+   "Author": "Sylvia Ratnasamy",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sylvia Ratnasamy",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Christophe Diot",
+   "Venue": "SIGCOMM",
+   "Submissions": 9
+ },
+ {
+   "Author": "Christophe Diot",
+   "Venue": "IMC",
+   "Submissions": 8
+ },
+ {
+   "Author": "Christophe Diot",
+   "Venue": "CoNext",
+   "Submissions": 14
+ },
+ {
+   "Author": "Christophe Diot",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Christophe Diot",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Christophe Diot",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Christophe Diot",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Christophe Diot",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Christophe Diot",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Christophe Diot",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Christophe Diot",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "David E. Culler",
+   "Venue": "SIGCOMM",
+   "Submissions": 0
+ },
+ {
+   "Author": "David E. Culler",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "David E. Culler",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "David E. Culler",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "David E. Culler",
+   "Venue": "E-Energy",
+   "Submissions": 3
+ },
+ {
+   "Author": "David E. Culler",
+   "Venue": "SenSys",
+   "Submissions": 27
+ },
+ {
+   "Author": "David E. Culler",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "David E. Culler",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "David E. Culler",
+   "Venue": "HotNets",
+   "Submissions": 1
+ },
+ {
+   "Author": "David E. Culler",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "David E. Culler",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mani B. Srivastava",
+   "Venue": "SIGCOMM",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mani B. Srivastava",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mani B. Srivastava",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mani B. Srivastava",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mani B. Srivastava",
+   "Venue": "E-Energy",
+   "Submissions": 1
+ },
+ {
+   "Author": "Mani B. Srivastava",
+   "Venue": "SenSys",
+   "Submissions": 28
+ },
+ {
+   "Author": "Mani B. Srivastava",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mani B. Srivastava",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mani B. Srivastava",
+   "Venue": "HotNets",
+   "Submissions": 1
+ },
+ {
+   "Author": "Mani B. Srivastava",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mani B. Srivastava",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Philip Levis",
+   "Venue": "SIGCOMM",
+   "Submissions": 0
+ },
+ {
+   "Author": "Philip Levis",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Philip Levis",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Philip Levis",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Philip Levis",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Philip Levis",
+   "Venue": "SenSys",
+   "Submissions": 27
+ },
+ {
+   "Author": "Philip Levis",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Philip Levis",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Philip Levis",
+   "Venue": "HotNets",
+   "Submissions": 3
+ },
+ {
+   "Author": "Philip Levis",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Philip Levis",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jitendra Padhye",
+   "Venue": "SIGCOMM",
+   "Submissions": 15
+ },
+ {
+   "Author": "Jitendra Padhye",
+   "Venue": "IMC",
+   "Submissions": 3
+ },
+ {
+   "Author": "Jitendra Padhye",
+   "Venue": "CoNext",
+   "Submissions": 4
+ },
+ {
+   "Author": "Jitendra Padhye",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jitendra Padhye",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jitendra Padhye",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jitendra Padhye",
+   "Venue": "SoSR",
+   "Submissions": 1
+ },
+ {
+   "Author": "Jitendra Padhye",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jitendra Padhye",
+   "Venue": "HotNets",
+   "Submissions": 6
+ },
+ {
+   "Author": "Jitendra Padhye",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jitendra Padhye",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Z. Morley Mao",
+   "Venue": "SIGCOMM",
+   "Submissions": 9
+ },
+ {
+   "Author": "Z. Morley Mao",
+   "Venue": "IMC",
+   "Submissions": 13
+ },
+ {
+   "Author": "Z. Morley Mao",
+   "Venue": "CoNext",
+   "Submissions": 1
+ },
+ {
+   "Author": "Z. Morley Mao",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Z. Morley Mao",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Z. Morley Mao",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Z. Morley Mao",
+   "Venue": "SoSR",
+   "Submissions": 3
+ },
+ {
+   "Author": "Z. Morley Mao",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Z. Morley Mao",
+   "Venue": "HotNets",
+   "Submissions": 2
+ },
+ {
+   "Author": "Z. Morley Mao",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Z. Morley Mao",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Alan Mislove",
+   "Venue": "SIGCOMM",
+   "Submissions": 4
+ },
+ {
+   "Author": "Alan Mislove",
+   "Venue": "IMC",
+   "Submissions": 18
+ },
+ {
+   "Author": "Alan Mislove",
+   "Venue": "CoNext",
+   "Submissions": 1
+ },
+ {
+   "Author": "Alan Mislove",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Alan Mislove",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Alan Mislove",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Alan Mislove",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Alan Mislove",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Alan Mislove",
+   "Venue": "HotNets",
+   "Submissions": 3
+ },
+ {
+   "Author": "Alan Mislove",
+   "Venue": "ANRW",
+   "Submissions": 2
+ },
+ {
+   "Author": "Alan Mislove",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "David Wetherall",
+   "Venue": "SIGCOMM",
+   "Submissions": 17
+ },
+ {
+   "Author": "David Wetherall",
+   "Venue": "IMC",
+   "Submissions": 2
+ },
+ {
+   "Author": "David Wetherall",
+   "Venue": "CoNext",
+   "Submissions": 4
+ },
+ {
+   "Author": "David Wetherall",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "David Wetherall",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "David Wetherall",
+   "Venue": "SenSys",
+   "Submissions": 1
+ },
+ {
+   "Author": "David Wetherall",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "David Wetherall",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "David Wetherall",
+   "Venue": "HotNets",
+   "Submissions": 3
+ },
+ {
+   "Author": "David Wetherall",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "David Wetherall",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mark Handley",
+   "Venue": "SIGCOMM",
+   "Submissions": 18
+ },
+ {
+   "Author": "Mark Handley",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mark Handley",
+   "Venue": "CoNext",
+   "Submissions": 3
+ },
+ {
+   "Author": "Mark Handley",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mark Handley",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mark Handley",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mark Handley",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mark Handley",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mark Handley",
+   "Venue": "HotNets",
+   "Submissions": 6
+ },
+ {
+   "Author": "Mark Handley",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mark Handley",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Paul Barford",
+   "Venue": "SIGCOMM",
+   "Submissions": 6
+ },
+ {
+   "Author": "Paul Barford",
+   "Venue": "IMC",
+   "Submissions": 16
+ },
+ {
+   "Author": "Paul Barford",
+   "Venue": "CoNext",
+   "Submissions": 2
+ },
+ {
+   "Author": "Paul Barford",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Paul Barford",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Paul Barford",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Paul Barford",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Paul Barford",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Paul Barford",
+   "Venue": "HotNets",
+   "Submissions": 1
+ },
+ {
+   "Author": "Paul Barford",
+   "Venue": "ANRW",
+   "Submissions": 2
+ },
+ {
+   "Author": "Paul Barford",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "John S. Heidemann",
+   "Venue": "SIGCOMM",
+   "Submissions": 4
+ },
+ {
+   "Author": "John S. Heidemann",
+   "Venue": "IMC",
+   "Submissions": 11
+ },
+ {
+   "Author": "John S. Heidemann",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "John S. Heidemann",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "John S. Heidemann",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "John S. Heidemann",
+   "Venue": "SenSys",
+   "Submissions": 11
+ },
+ {
+   "Author": "John S. Heidemann",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "John S. Heidemann",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "John S. Heidemann",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "John S. Heidemann",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "John S. Heidemann",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Walter Willinger",
+   "Venue": "SIGCOMM",
+   "Submissions": 12
+ },
+ {
+   "Author": "Walter Willinger",
+   "Venue": "IMC",
+   "Submissions": 12
+ },
+ {
+   "Author": "Walter Willinger",
+   "Venue": "CoNext",
+   "Submissions": 1
+ },
+ {
+   "Author": "Walter Willinger",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Walter Willinger",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Walter Willinger",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Walter Willinger",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Walter Willinger",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Walter Willinger",
+   "Venue": "HotNets",
+   "Submissions": 1
+ },
+ {
+   "Author": "Walter Willinger",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Walter Willinger",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Neil Spring",
+   "Venue": "SIGCOMM",
+   "Submissions": 10
+ },
+ {
+   "Author": "Neil Spring",
+   "Venue": "IMC",
+   "Submissions": 13
+ },
+ {
+   "Author": "Neil Spring",
+   "Venue": "CoNext",
+   "Submissions": 1
+ },
+ {
+   "Author": "Neil Spring",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Neil Spring",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Neil Spring",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Neil Spring",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Neil Spring",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Neil Spring",
+   "Venue": "HotNets",
+   "Submissions": 2
+ },
+ {
+   "Author": "Neil Spring",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Neil Spring",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Stefan Savage",
+   "Venue": "SIGCOMM",
+   "Submissions": 8
+ },
+ {
+   "Author": "Stefan Savage",
+   "Venue": "IMC",
+   "Submissions": 15
+ },
+ {
+   "Author": "Stefan Savage",
+   "Venue": "CoNext",
+   "Submissions": 1
+ },
+ {
+   "Author": "Stefan Savage",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Stefan Savage",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Stefan Savage",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Stefan Savage",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Stefan Savage",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Stefan Savage",
+   "Venue": "HotNets",
+   "Submissions": 2
+ },
+ {
+   "Author": "Stefan Savage",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Stefan Savage",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srikanth Kandula",
+   "Venue": "SIGCOMM",
+   "Submissions": 16
+ },
+ {
+   "Author": "Srikanth Kandula",
+   "Venue": "IMC",
+   "Submissions": 4
+ },
+ {
+   "Author": "Srikanth Kandula",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srikanth Kandula",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srikanth Kandula",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srikanth Kandula",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srikanth Kandula",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srikanth Kandula",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srikanth Kandula",
+   "Venue": "HotNets",
+   "Submissions": 6
+ },
+ {
+   "Author": "Srikanth Kandula",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srikanth Kandula",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Peter Steenkiste",
+   "Venue": "SIGCOMM",
+   "Submissions": 11
+ },
+ {
+   "Author": "Peter Steenkiste",
+   "Venue": "IMC",
+   "Submissions": 2
+ },
+ {
+   "Author": "Peter Steenkiste",
+   "Venue": "CoNext",
+   "Submissions": 8
+ },
+ {
+   "Author": "Peter Steenkiste",
+   "Venue": "ICN",
+   "Submissions": 1
+ },
+ {
+   "Author": "Peter Steenkiste",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Peter Steenkiste",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Peter Steenkiste",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Peter Steenkiste",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Peter Steenkiste",
+   "Venue": "HotNets",
+   "Submissions": 3
+ },
+ {
+   "Author": "Peter Steenkiste",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Peter Steenkiste",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Minlan Yu",
+   "Venue": "SIGCOMM",
+   "Submissions": 12
+ },
+ {
+   "Author": "Minlan Yu",
+   "Venue": "IMC",
+   "Submissions": 1
+ },
+ {
+   "Author": "Minlan Yu",
+   "Venue": "CoNext",
+   "Submissions": 6
+ },
+ {
+   "Author": "Minlan Yu",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Minlan Yu",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Minlan Yu",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Minlan Yu",
+   "Venue": "SoSR",
+   "Submissions": 3
+ },
+ {
+   "Author": "Minlan Yu",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Minlan Yu",
+   "Venue": "HotNets",
+   "Submissions": 3
+ },
+ {
+   "Author": "Minlan Yu",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Minlan Yu",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Pei Zhang",
+   "Venue": "SIGCOMM",
+   "Submissions": 1
+ },
+ {
+   "Author": "Pei Zhang",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Pei Zhang",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Pei Zhang",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Pei Zhang",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Pei Zhang",
+   "Venue": "SenSys",
+   "Submissions": 23
+ },
+ {
+   "Author": "Pei Zhang",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Pei Zhang",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Pei Zhang",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Pei Zhang",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Pei Zhang",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Alex C. Snoeren",
+   "Venue": "SIGCOMM",
+   "Submissions": 11
+ },
+ {
+   "Author": "Alex C. Snoeren",
+   "Venue": "IMC",
+   "Submissions": 7
+ },
+ {
+   "Author": "Alex C. Snoeren",
+   "Venue": "CoNext",
+   "Submissions": 2
+ },
+ {
+   "Author": "Alex C. Snoeren",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Alex C. Snoeren",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Alex C. Snoeren",
+   "Venue": "SenSys",
+   "Submissions": 1
+ },
+ {
+   "Author": "Alex C. Snoeren",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Alex C. Snoeren",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Alex C. Snoeren",
+   "Venue": "HotNets",
+   "Submissions": 3
+ },
+ {
+   "Author": "Alex C. Snoeren",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Alex C. Snoeren",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thomas E. Anderson",
+   "Venue": "SIGCOMM",
+   "Submissions": 12
+ },
+ {
+   "Author": "Thomas E. Anderson",
+   "Venue": "IMC",
+   "Submissions": 5
+ },
+ {
+   "Author": "Thomas E. Anderson",
+   "Venue": "CoNext",
+   "Submissions": 1
+ },
+ {
+   "Author": "Thomas E. Anderson",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thomas E. Anderson",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thomas E. Anderson",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thomas E. Anderson",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thomas E. Anderson",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thomas E. Anderson",
+   "Venue": "HotNets",
+   "Submissions": 6
+ },
+ {
+   "Author": "Thomas E. Anderson",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thomas E. Anderson",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "David R. Choffnes",
+   "Venue": "SIGCOMM",
+   "Submissions": 10
+ },
+ {
+   "Author": "David R. Choffnes",
+   "Venue": "IMC",
+   "Submissions": 9
+ },
+ {
+   "Author": "David R. Choffnes",
+   "Venue": "CoNext",
+   "Submissions": 1
+ },
+ {
+   "Author": "David R. Choffnes",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "David R. Choffnes",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "David R. Choffnes",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "David R. Choffnes",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "David R. Choffnes",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "David R. Choffnes",
+   "Venue": "HotNets",
+   "Submissions": 2
+ },
+ {
+   "Author": "David R. Choffnes",
+   "Venue": "ANRW",
+   "Submissions": 2
+ },
+ {
+   "Author": "David R. Choffnes",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Phillipa Gill",
+   "Venue": "SIGCOMM",
+   "Submissions": 6
+ },
+ {
+   "Author": "Phillipa Gill",
+   "Venue": "IMC",
+   "Submissions": 12
+ },
+ {
+   "Author": "Phillipa Gill",
+   "Venue": "CoNext",
+   "Submissions": 2
+ },
+ {
+   "Author": "Phillipa Gill",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Phillipa Gill",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Phillipa Gill",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Phillipa Gill",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Phillipa Gill",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Phillipa Gill",
+   "Venue": "HotNets",
+   "Submissions": 1
+ },
+ {
+   "Author": "Phillipa Gill",
+   "Venue": "ANRW",
+   "Submissions": 3
+ },
+ {
+   "Author": "Phillipa Gill",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mark Allman",
+   "Venue": "SIGCOMM",
+   "Submissions": 3
+ },
+ {
+   "Author": "Mark Allman",
+   "Venue": "IMC",
+   "Submissions": 12
+ },
+ {
+   "Author": "Mark Allman",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mark Allman",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mark Allman",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mark Allman",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mark Allman",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mark Allman",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mark Allman",
+   "Venue": "HotNets",
+   "Submissions": 6
+ },
+ {
+   "Author": "Mark Allman",
+   "Venue": "ANRW",
+   "Submissions": 3
+ },
+ {
+   "Author": "Mark Allman",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Keshav",
+   "Venue": "SIGCOMM",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Keshav",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Keshav",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Keshav",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Keshav",
+   "Venue": "E-Energy",
+   "Submissions": 21
+ },
+ {
+   "Author": "Srinivasan Keshav",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Keshav",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Keshav",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Keshav",
+   "Venue": "HotNets",
+   "Submissions": 1
+ },
+ {
+   "Author": "Srinivasan Keshav",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Keshav",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthias Wählisch",
+   "Venue": "SIGCOMM",
+   "Submissions": 8
+ },
+ {
+   "Author": "Matthias Wählisch",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthias Wählisch",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthias Wählisch",
+   "Venue": "ICN",
+   "Submissions": 12
+ },
+ {
+   "Author": "Matthias Wählisch",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthias Wählisch",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthias Wählisch",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthias Wählisch",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthias Wählisch",
+   "Venue": "HotNets",
+   "Submissions": 1
+ },
+ {
+   "Author": "Matthias Wählisch",
+   "Venue": "ANRW",
+   "Submissions": 1
+ },
+ {
+   "Author": "Matthias Wählisch",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thomas C. Schmidt",
+   "Venue": "SIGCOMM",
+   "Submissions": 8
+ },
+ {
+   "Author": "Thomas C. Schmidt",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thomas C. Schmidt",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thomas C. Schmidt",
+   "Venue": "ICN",
+   "Submissions": 12
+ },
+ {
+   "Author": "Thomas C. Schmidt",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thomas C. Schmidt",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thomas C. Schmidt",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thomas C. Schmidt",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thomas C. Schmidt",
+   "Venue": "HotNets",
+   "Submissions": 1
+ },
+ {
+   "Author": "Thomas C. Schmidt",
+   "Venue": "ANRW",
+   "Submissions": 1
+ },
+ {
+   "Author": "Thomas C. Schmidt",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Subhabrata Sen",
+   "Venue": "SIGCOMM",
+   "Submissions": 2
+ },
+ {
+   "Author": "Subhabrata Sen",
+   "Venue": "IMC",
+   "Submissions": 13
+ },
+ {
+   "Author": "Subhabrata Sen",
+   "Venue": "CoNext",
+   "Submissions": 5
+ },
+ {
+   "Author": "Subhabrata Sen",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Subhabrata Sen",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Subhabrata Sen",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Subhabrata Sen",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Subhabrata Sen",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Subhabrata Sen",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Subhabrata Sen",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Subhabrata Sen",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kamin Whitehouse",
+   "Venue": "SIGCOMM",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kamin Whitehouse",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kamin Whitehouse",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kamin Whitehouse",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kamin Whitehouse",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kamin Whitehouse",
+   "Venue": "SenSys",
+   "Submissions": 20
+ },
+ {
+   "Author": "Kamin Whitehouse",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kamin Whitehouse",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kamin Whitehouse",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kamin Whitehouse",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kamin Whitehouse",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Yin Zhang",
+   "Venue": "SIGCOMM",
+   "Submissions": 11
+ },
+ {
+   "Author": "Yin Zhang",
+   "Venue": "IMC",
+   "Submissions": 5
+ },
+ {
+   "Author": "Yin Zhang",
+   "Venue": "CoNext",
+   "Submissions": 3
+ },
+ {
+   "Author": "Yin Zhang",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Yin Zhang",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Yin Zhang",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Yin Zhang",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Yin Zhang",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Yin Zhang",
+   "Venue": "HotNets",
+   "Submissions": 1
+ },
+ {
+   "Author": "Yin Zhang",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Yin Zhang",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ethan Katz-Bassett",
+   "Venue": "SIGCOMM",
+   "Submissions": 11
+ },
+ {
+   "Author": "Ethan Katz-Bassett",
+   "Venue": "IMC",
+   "Submissions": 7
+ },
+ {
+   "Author": "Ethan Katz-Bassett",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ethan Katz-Bassett",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ethan Katz-Bassett",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ethan Katz-Bassett",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ethan Katz-Bassett",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ethan Katz-Bassett",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ethan Katz-Bassett",
+   "Venue": "HotNets",
+   "Submissions": 2
+ },
+ {
+   "Author": "Ethan Katz-Bassett",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ethan Katz-Bassett",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kimberly C. Claffy ",
+   "Venue": "SIGCOMM",
+   "Submissions": 2
+ },
+ {
+   "Author": "Kimberly C. Claffy ",
+   "Venue": "IMC",
+   "Submissions": 13
+ },
+ {
+   "Author": "Kimberly C. Claffy ",
+   "Venue": "CoNext",
+   "Submissions": 4
+ },
+ {
+   "Author": "Kimberly C. Claffy ",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kimberly C. Claffy ",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kimberly C. Claffy ",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kimberly C. Claffy ",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kimberly C. Claffy ",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kimberly C. Claffy ",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kimberly C. Claffy ",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kimberly C. Claffy ",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "J. J. Garcia-Luna-Aceves",
+   "Venue": "SIGCOMM",
+   "Submissions": 12
+ },
+ {
+   "Author": "J. J. Garcia-Luna-Aceves",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "J. J. Garcia-Luna-Aceves",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "J. J. Garcia-Luna-Aceves",
+   "Venue": "ICN",
+   "Submissions": 6
+ },
+ {
+   "Author": "J. J. Garcia-Luna-Aceves",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "J. J. Garcia-Luna-Aceves",
+   "Venue": "SenSys",
+   "Submissions": 1
+ },
+ {
+   "Author": "J. J. Garcia-Luna-Aceves",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "J. J. Garcia-Luna-Aceves",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "J. J. Garcia-Luna-Aceves",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "J. J. Garcia-Luna-Aceves",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "J. J. Garcia-Luna-Aceves",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Wen Hu",
+   "Venue": "SIGCOMM",
+   "Submissions": 0
+ },
+ {
+   "Author": "Wen Hu",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Wen Hu",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Wen Hu",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Wen Hu",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Wen Hu",
+   "Venue": "SenSys",
+   "Submissions": 19
+ },
+ {
+   "Author": "Wen Hu",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Wen Hu",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Wen Hu",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Wen Hu",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Wen Hu",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jun Bi",
+   "Venue": "SIGCOMM",
+   "Submissions": 12
+ },
+ {
+   "Author": "Jun Bi",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jun Bi",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jun Bi",
+   "Venue": "ICN",
+   "Submissions": 2
+ },
+ {
+   "Author": "Jun Bi",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jun Bi",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jun Bi",
+   "Venue": "SoSR",
+   "Submissions": 5
+ },
+ {
+   "Author": "Jun Bi",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jun Bi",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jun Bi",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jun Bi",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Geoffrey M. Voelker",
+   "Venue": "SIGCOMM",
+   "Submissions": 5
+ },
+ {
+   "Author": "Geoffrey M. Voelker",
+   "Venue": "IMC",
+   "Submissions": 11
+ },
+ {
+   "Author": "Geoffrey M. Voelker",
+   "Venue": "CoNext",
+   "Submissions": 2
+ },
+ {
+   "Author": "Geoffrey M. Voelker",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Geoffrey M. Voelker",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Geoffrey M. Voelker",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Geoffrey M. Voelker",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Geoffrey M. Voelker",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Geoffrey M. Voelker",
+   "Venue": "HotNets",
+   "Submissions": 1
+ },
+ {
+   "Author": "Geoffrey M. Voelker",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Geoffrey M. Voelker",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Nick G. Duffield",
+   "Venue": "SIGCOMM",
+   "Submissions": 6
+ },
+ {
+   "Author": "Nick G. Duffield",
+   "Venue": "IMC",
+   "Submissions": 11
+ },
+ {
+   "Author": "Nick G. Duffield",
+   "Venue": "CoNext",
+   "Submissions": 1
+ },
+ {
+   "Author": "Nick G. Duffield",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Nick G. Duffield",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Nick G. Duffield",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Nick G. Duffield",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Nick G. Duffield",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Nick G. Duffield",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Nick G. Duffield",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Nick G. Duffield",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew Roughan",
+   "Venue": "SIGCOMM",
+   "Submissions": 6
+ },
+ {
+   "Author": "Matthew Roughan",
+   "Venue": "IMC",
+   "Submissions": 10
+ },
+ {
+   "Author": "Matthew Roughan",
+   "Venue": "CoNext",
+   "Submissions": 2
+ },
+ {
+   "Author": "Matthew Roughan",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew Roughan",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew Roughan",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew Roughan",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew Roughan",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew Roughan",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew Roughan",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew Roughan",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Paul Francis",
+   "Venue": "SIGCOMM",
+   "Submissions": 11
+ },
+ {
+   "Author": "Paul Francis",
+   "Venue": "IMC",
+   "Submissions": 4
+ },
+ {
+   "Author": "Paul Francis",
+   "Venue": "CoNext",
+   "Submissions": 3
+ },
+ {
+   "Author": "Paul Francis",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Paul Francis",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Paul Francis",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Paul Francis",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Paul Francis",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Paul Francis",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Paul Francis",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Paul Francis",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "David A. Maltz",
+   "Venue": "SIGCOMM",
+   "Submissions": 11
+ },
+ {
+   "Author": "David A. Maltz",
+   "Venue": "IMC",
+   "Submissions": 4
+ },
+ {
+   "Author": "David A. Maltz",
+   "Venue": "CoNext",
+   "Submissions": 3
+ },
+ {
+   "Author": "David A. Maltz",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "David A. Maltz",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "David A. Maltz",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "David A. Maltz",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "David A. Maltz",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "David A. Maltz",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "David A. Maltz",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "David A. Maltz",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Deepak Ganesan",
+   "Venue": "SIGCOMM",
+   "Submissions": 4
+ },
+ {
+   "Author": "Deepak Ganesan",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Deepak Ganesan",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Deepak Ganesan",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Deepak Ganesan",
+   "Venue": "E-Energy",
+   "Submissions": 1
+ },
+ {
+   "Author": "Deepak Ganesan",
+   "Venue": "SenSys",
+   "Submissions": 13
+ },
+ {
+   "Author": "Deepak Ganesan",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Deepak Ganesan",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Deepak Ganesan",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Deepak Ganesan",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Deepak Ganesan",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mohammad Alizadeh",
+   "Venue": "SIGCOMM",
+   "Submissions": 16
+ },
+ {
+   "Author": "Mohammad Alizadeh",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mohammad Alizadeh",
+   "Venue": "CoNext",
+   "Submissions": 1
+ },
+ {
+   "Author": "Mohammad Alizadeh",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mohammad Alizadeh",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mohammad Alizadeh",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mohammad Alizadeh",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mohammad Alizadeh",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mohammad Alizadeh",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mohammad Alizadeh",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mohammad Alizadeh",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mark Crovella",
+   "Venue": "SIGCOMM",
+   "Submissions": 4
+ },
+ {
+   "Author": "Mark Crovella",
+   "Venue": "IMC",
+   "Submissions": 12
+ },
+ {
+   "Author": "Mark Crovella",
+   "Venue": "CoNext",
+   "Submissions": 1
+ },
+ {
+   "Author": "Mark Crovella",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mark Crovella",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mark Crovella",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mark Crovella",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mark Crovella",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mark Crovella",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mark Crovella",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Mark Crovella",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Fabián E. Bustamante",
+   "Venue": "SIGCOMM",
+   "Submissions": 10
+ },
+ {
+   "Author": "Fabián E. Bustamante",
+   "Venue": "IMC",
+   "Submissions": 5
+ },
+ {
+   "Author": "Fabián E. Bustamante",
+   "Venue": "CoNext",
+   "Submissions": 2
+ },
+ {
+   "Author": "Fabián E. Bustamante",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Fabián E. Bustamante",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Fabián E. Bustamante",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Fabián E. Bustamante",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Fabián E. Bustamante",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Fabián E. Bustamante",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Fabián E. Bustamante",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Fabián E. Bustamante",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew J. Luckie",
+   "Venue": "SIGCOMM",
+   "Submissions": 2
+ },
+ {
+   "Author": "Matthew J. Luckie",
+   "Venue": "IMC",
+   "Submissions": 11
+ },
+ {
+   "Author": "Matthew J. Luckie",
+   "Venue": "CoNext",
+   "Submissions": 4
+ },
+ {
+   "Author": "Matthew J. Luckie",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew J. Luckie",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew J. Luckie",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew J. Luckie",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew J. Luckie",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew J. Luckie",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew J. Luckie",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew J. Luckie",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hermann de Meer",
+   "Venue": "SIGCOMM",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hermann de Meer",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hermann de Meer",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hermann de Meer",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hermann de Meer",
+   "Venue": "E-Energy",
+   "Submissions": 17
+ },
+ {
+   "Author": "Hermann de Meer",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hermann de Meer",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hermann de Meer",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hermann de Meer",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hermann de Meer",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hermann de Meer",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Tarek F. Abdelzaher",
+   "Venue": "SIGCOMM",
+   "Submissions": 0
+ },
+ {
+   "Author": "Tarek F. Abdelzaher",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Tarek F. Abdelzaher",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Tarek F. Abdelzaher",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Tarek F. Abdelzaher",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Tarek F. Abdelzaher",
+   "Venue": "SenSys",
+   "Submissions": 17
+ },
+ {
+   "Author": "Tarek F. Abdelzaher",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Tarek F. Abdelzaher",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Tarek F. Abdelzaher",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Tarek F. Abdelzaher",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Tarek F. Abdelzaher",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Christo Wilson",
+   "Venue": "SIGCOMM",
+   "Submissions": 1
+ },
+ {
+   "Author": "Christo Wilson",
+   "Venue": "IMC",
+   "Submissions": 15
+ },
+ {
+   "Author": "Christo Wilson",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Christo Wilson",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Christo Wilson",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Christo Wilson",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Christo Wilson",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Christo Wilson",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Christo Wilson",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Christo Wilson",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Christo Wilson",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Balachander Krishnamurthy",
+   "Venue": "SIGCOMM",
+   "Submissions": 3
+ },
+ {
+   "Author": "Balachander Krishnamurthy",
+   "Venue": "IMC",
+   "Submissions": 13
+ },
+ {
+   "Author": "Balachander Krishnamurthy",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Balachander Krishnamurthy",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Balachander Krishnamurthy",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Balachander Krishnamurthy",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Balachander Krishnamurthy",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Balachander Krishnamurthy",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Balachander Krishnamurthy",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Balachander Krishnamurthy",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Balachander Krishnamurthy",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Yang Richard Yang",
+   "Venue": "SIGCOMM",
+   "Submissions": 14
+ },
+ {
+   "Author": "Yang Richard Yang",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Yang Richard Yang",
+   "Venue": "CoNext",
+   "Submissions": 2
+ },
+ {
+   "Author": "Yang Richard Yang",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Yang Richard Yang",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Yang Richard Yang",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Yang Richard Yang",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Yang Richard Yang",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Yang Richard Yang",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Yang Richard Yang",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Yang Richard Yang",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sid Chi-Kin Chau",
+   "Venue": "SIGCOMM",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sid Chi-Kin Chau",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sid Chi-Kin Chau",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sid Chi-Kin Chau",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sid Chi-Kin Chau",
+   "Venue": "E-Energy",
+   "Submissions": 16
+ },
+ {
+   "Author": "Sid Chi-Kin Chau",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sid Chi-Kin Chau",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sid Chi-Kin Chau",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sid Chi-Kin Chau",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sid Chi-Kin Chau",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sid Chi-Kin Chau",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lothar Thiele",
+   "Venue": "SIGCOMM",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lothar Thiele",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lothar Thiele",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lothar Thiele",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lothar Thiele",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lothar Thiele",
+   "Venue": "SenSys",
+   "Submissions": 16
+ },
+ {
+   "Author": "Lothar Thiele",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lothar Thiele",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lothar Thiele",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lothar Thiele",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lothar Thiele",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thiemo Voigt",
+   "Venue": "SIGCOMM",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thiemo Voigt",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thiemo Voigt",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thiemo Voigt",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thiemo Voigt",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thiemo Voigt",
+   "Venue": "SenSys",
+   "Submissions": 16
+ },
+ {
+   "Author": "Thiemo Voigt",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thiemo Voigt",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thiemo Voigt",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thiemo Voigt",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thiemo Voigt",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jan Beutel",
+   "Venue": "SIGCOMM",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jan Beutel",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jan Beutel",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jan Beutel",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jan Beutel",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jan Beutel",
+   "Venue": "SenSys",
+   "Submissions": 16
+ },
+ {
+   "Author": "Jan Beutel",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jan Beutel",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jan Beutel",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jan Beutel",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jan Beutel",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Marco Zimmerling",
+   "Venue": "SIGCOMM",
+   "Submissions": 0
+ },
+ {
+   "Author": "Marco Zimmerling",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Marco Zimmerling",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Marco Zimmerling",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Marco Zimmerling",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Marco Zimmerling",
+   "Venue": "SenSys",
+   "Submissions": 16
+ },
+ {
+   "Author": "Marco Zimmerling",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Marco Zimmerling",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Marco Zimmerling",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Marco Zimmerling",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Marco Zimmerling",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Andrew T. Campbell",
+   "Venue": "SIGCOMM",
+   "Submissions": 1
+ },
+ {
+   "Author": "Andrew T. Campbell",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Andrew T. Campbell",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Andrew T. Campbell",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Andrew T. Campbell",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Andrew T. Campbell",
+   "Venue": "SenSys",
+   "Submissions": 15
+ },
+ {
+   "Author": "Andrew T. Campbell",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Andrew T. Campbell",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Andrew T. Campbell",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Andrew T. Campbell",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Andrew T. Campbell",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Georgios Smaragdakis",
+   "Venue": "SIGCOMM",
+   "Submissions": 2
+ },
+ {
+   "Author": "Georgios Smaragdakis",
+   "Venue": "IMC",
+   "Submissions": 9
+ },
+ {
+   "Author": "Georgios Smaragdakis",
+   "Venue": "CoNext",
+   "Submissions": 4
+ },
+ {
+   "Author": "Georgios Smaragdakis",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Georgios Smaragdakis",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Georgios Smaragdakis",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Georgios Smaragdakis",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Georgios Smaragdakis",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Georgios Smaragdakis",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Georgios Smaragdakis",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Georgios Smaragdakis",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Luca Muscariello ",
+   "Venue": "SIGCOMM",
+   "Submissions": 0
+ },
+ {
+   "Author": "Luca Muscariello ",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Luca Muscariello ",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Luca Muscariello ",
+   "Venue": "ICN",
+   "Submissions": 15
+ },
+ {
+   "Author": "Luca Muscariello ",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Luca Muscariello ",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Luca Muscariello ",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Luca Muscariello ",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Luca Muscariello ",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Luca Muscariello ",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Luca Muscariello ",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ming Zhang",
+   "Venue": "SIGCOMM",
+   "Submissions": 11
+ },
+ {
+   "Author": "Ming Zhang",
+   "Venue": "IMC",
+   "Submissions": 2
+ },
+ {
+   "Author": "Ming Zhang",
+   "Venue": "CoNext",
+   "Submissions": 1
+ },
+ {
+   "Author": "Ming Zhang",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ming Zhang",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ming Zhang",
+   "Venue": "SenSys",
+   "Submissions": 1
+ },
+ {
+   "Author": "Ming Zhang",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ming Zhang",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ming Zhang",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ming Zhang",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ming Zhang",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Shyamnath Gollakota",
+   "Venue": "SIGCOMM",
+   "Submissions": 12
+ },
+ {
+   "Author": "Shyamnath Gollakota",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Shyamnath Gollakota",
+   "Venue": "CoNext",
+   "Submissions": 1
+ },
+ {
+   "Author": "Shyamnath Gollakota",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Shyamnath Gollakota",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Shyamnath Gollakota",
+   "Venue": "SenSys",
+   "Submissions": 2
+ },
+ {
+   "Author": "Shyamnath Gollakota",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Shyamnath Gollakota",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Shyamnath Gollakota",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Shyamnath Gollakota",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Shyamnath Gollakota",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Larry L. Peterson",
+   "Venue": "SIGCOMM",
+   "Submissions": 11
+ },
+ {
+   "Author": "Larry L. Peterson",
+   "Venue": "IMC",
+   "Submissions": 2
+ },
+ {
+   "Author": "Larry L. Peterson",
+   "Venue": "CoNext",
+   "Submissions": 1
+ },
+ {
+   "Author": "Larry L. Peterson",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Larry L. Peterson",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Larry L. Peterson",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Larry L. Peterson",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Larry L. Peterson",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Larry L. Peterson",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Larry L. Peterson",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Larry L. Peterson",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ben Y. Zhao ",
+   "Venue": "SIGCOMM",
+   "Submissions": 2
+ },
+ {
+   "Author": "Ben Y. Zhao ",
+   "Venue": "IMC",
+   "Submissions": 10
+ },
+ {
+   "Author": "Ben Y. Zhao ",
+   "Venue": "CoNext",
+   "Submissions": 2
+ },
+ {
+   "Author": "Ben Y. Zhao ",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ben Y. Zhao ",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ben Y. Zhao ",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ben Y. Zhao ",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ben Y. Zhao ",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ben Y. Zhao ",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ben Y. Zhao ",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Ben Y. Zhao ",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Adam Dunkels",
+   "Venue": "SIGCOMM",
+   "Submissions": 1
+ },
+ {
+   "Author": "Adam Dunkels",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Adam Dunkels",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Adam Dunkels",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Adam Dunkels",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Adam Dunkels",
+   "Venue": "SenSys",
+   "Submissions": 13
+ },
+ {
+   "Author": "Adam Dunkels",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Adam Dunkels",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Adam Dunkels",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Adam Dunkels",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Adam Dunkels",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Albert G. Greenberg",
+   "Venue": "SIGCOMM",
+   "Submissions": 10
+ },
+ {
+   "Author": "Albert G. Greenberg",
+   "Venue": "IMC",
+   "Submissions": 3
+ },
+ {
+   "Author": "Albert G. Greenberg",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Albert G. Greenberg",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Albert G. Greenberg",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Albert G. Greenberg",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Albert G. Greenberg",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Albert G. Greenberg",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Albert G. Greenberg",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Albert G. Greenberg",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Albert G. Greenberg",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Constantinos Dovrolis",
+   "Venue": "SIGCOMM",
+   "Submissions": 4
+ },
+ {
+   "Author": "Constantinos Dovrolis",
+   "Venue": "IMC",
+   "Submissions": 9
+ },
+ {
+   "Author": "Constantinos Dovrolis",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Constantinos Dovrolis",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Constantinos Dovrolis",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Constantinos Dovrolis",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Constantinos Dovrolis",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Constantinos Dovrolis",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Constantinos Dovrolis",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Constantinos Dovrolis",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Constantinos Dovrolis",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jeffrey C. Mogul",
+   "Venue": "SIGCOMM",
+   "Submissions": 11
+ },
+ {
+   "Author": "Jeffrey C. Mogul",
+   "Venue": "IMC",
+   "Submissions": 1
+ },
+ {
+   "Author": "Jeffrey C. Mogul",
+   "Venue": "CoNext",
+   "Submissions": 1
+ },
+ {
+   "Author": "Jeffrey C. Mogul",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jeffrey C. Mogul",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jeffrey C. Mogul",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jeffrey C. Mogul",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jeffrey C. Mogul",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jeffrey C. Mogul",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jeffrey C. Mogul",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Jeffrey C. Mogul",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Joel Sommers",
+   "Venue": "SIGCOMM",
+   "Submissions": 3
+ },
+ {
+   "Author": "Joel Sommers",
+   "Venue": "IMC",
+   "Submissions": 9
+ },
+ {
+   "Author": "Joel Sommers",
+   "Venue": "CoNext",
+   "Submissions": 1
+ },
+ {
+   "Author": "Joel Sommers",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Joel Sommers",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Joel Sommers",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Joel Sommers",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Joel Sommers",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Joel Sommers",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Joel Sommers",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Joel Sommers",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Vijay Arya",
+   "Venue": "SIGCOMM",
+   "Submissions": 0
+ },
+ {
+   "Author": "Vijay Arya",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Vijay Arya",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Vijay Arya",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Vijay Arya",
+   "Venue": "E-Energy",
+   "Submissions": 13
+ },
+ {
+   "Author": "Vijay Arya",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Vijay Arya",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Vijay Arya",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Vijay Arya",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Vijay Arya",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Vijay Arya",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Krithi Ramamritham",
+   "Venue": "SIGCOMM",
+   "Submissions": 0
+ },
+ {
+   "Author": "Krithi Ramamritham",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Krithi Ramamritham",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Krithi Ramamritham",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Krithi Ramamritham",
+   "Venue": "E-Energy",
+   "Submissions": 13
+ },
+ {
+   "Author": "Krithi Ramamritham",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Krithi Ramamritham",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Krithi Ramamritham",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Krithi Ramamritham",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Krithi Ramamritham",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Krithi Ramamritham",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Catherine Rosenberg",
+   "Venue": "SIGCOMM",
+   "Submissions": 0
+ },
+ {
+   "Author": "Catherine Rosenberg",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Catherine Rosenberg",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Catherine Rosenberg",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Catherine Rosenberg",
+   "Venue": "E-Energy",
+   "Submissions": 13
+ },
+ {
+   "Author": "Catherine Rosenberg",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Catherine Rosenberg",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Catherine Rosenberg",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Catherine Rosenberg",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Catherine Rosenberg",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Catherine Rosenberg",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Josiah D. Hester",
+   "Venue": "SIGCOMM",
+   "Submissions": 0
+ },
+ {
+   "Author": "Josiah D. Hester",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Josiah D. Hester",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Josiah D. Hester",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Josiah D. Hester",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Josiah D. Hester",
+   "Venue": "SenSys",
+   "Submissions": 13
+ },
+ {
+   "Author": "Josiah D. Hester",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Josiah D. Hester",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Josiah D. Hester",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Josiah D. Hester",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Josiah D. Hester",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Feng Zhao 0001",
+   "Venue": "SIGCOMM",
+   "Submissions": 0
+ },
+ {
+   "Author": "Feng Zhao 0001",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Feng Zhao 0001",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Feng Zhao 0001",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Feng Zhao 0001",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Feng Zhao 0001",
+   "Venue": "SenSys",
+   "Submissions": 13
+ },
+ {
+   "Author": "Feng Zhao 0001",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Feng Zhao 0001",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Feng Zhao 0001",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Feng Zhao 0001",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Feng Zhao 0001",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Changhoon Kim",
+   "Venue": "SIGCOMM",
+   "Submissions": 8
+ },
+ {
+   "Author": "Changhoon Kim",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Changhoon Kim",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Changhoon Kim",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Changhoon Kim",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Changhoon Kim",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Changhoon Kim",
+   "Venue": "SoSR",
+   "Submissions": 5
+ },
+ {
+   "Author": "Changhoon Kim",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Changhoon Kim",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Changhoon Kim",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Changhoon Kim",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hitesh Ballani",
+   "Venue": "SIGCOMM",
+   "Submissions": 11
+ },
+ {
+   "Author": "Hitesh Ballani",
+   "Venue": "IMC",
+   "Submissions": 1
+ },
+ {
+   "Author": "Hitesh Ballani",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hitesh Ballani",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hitesh Ballani",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hitesh Ballani",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hitesh Ballani",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hitesh Ballani",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hitesh Ballani",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hitesh Ballani",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hitesh Ballani",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Toru Hasegawa",
+   "Venue": "SIGCOMM",
+   "Submissions": 0
+ },
+ {
+   "Author": "Toru Hasegawa",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Toru Hasegawa",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Toru Hasegawa",
+   "Venue": "ICN",
+   "Submissions": 12
+ },
+ {
+   "Author": "Toru Hasegawa",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Toru Hasegawa",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Toru Hasegawa",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Toru Hasegawa",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Toru Hasegawa",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Toru Hasegawa",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Toru Hasegawa",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Prashant J. Shenoy",
+   "Venue": "SIGCOMM",
+   "Submissions": 0
+ },
+ {
+   "Author": "Prashant J. Shenoy",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Prashant J. Shenoy",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Prashant J. Shenoy",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Prashant J. Shenoy",
+   "Venue": "E-Energy",
+   "Submissions": 12
+ },
+ {
+   "Author": "Prashant J. Shenoy",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Prashant J. Shenoy",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Prashant J. Shenoy",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Prashant J. Shenoy",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Prashant J. Shenoy",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Prashant J. Shenoy",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Junchen Jiang",
+   "Venue": "SIGCOMM",
+   "Submissions": 10
+ },
+ {
+   "Author": "Junchen Jiang",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Junchen Jiang",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Junchen Jiang",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Junchen Jiang",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Junchen Jiang",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Junchen Jiang",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Junchen Jiang",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Junchen Jiang",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Junchen Jiang",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Junchen Jiang",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Boon Thau Loo",
+   "Venue": "SIGCOMM",
+   "Submissions": 10
+ },
+ {
+   "Author": "Boon Thau Loo",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Boon Thau Loo",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Boon Thau Loo",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Boon Thau Loo",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Boon Thau Loo",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Boon Thau Loo",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Boon Thau Loo",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Boon Thau Loo",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Boon Thau Loo",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Boon Thau Loo",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew Caesar",
+   "Venue": "SIGCOMM",
+   "Submissions": 9
+ },
+ {
+   "Author": "Matthew Caesar",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew Caesar",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew Caesar",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew Caesar",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew Caesar",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew Caesar",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew Caesar",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew Caesar",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew Caesar",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthew Caesar",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sally Floyd",
+   "Venue": "SIGCOMM",
+   "Submissions": 9
+ },
+ {
+   "Author": "Sally Floyd",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sally Floyd",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sally Floyd",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sally Floyd",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sally Floyd",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sally Floyd",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sally Floyd",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sally Floyd",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sally Floyd",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Sally Floyd",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Simon S. Lam",
+   "Venue": "SIGCOMM",
+   "Submissions": 9
+ },
+ {
+   "Author": "Simon S. Lam",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Simon S. Lam",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Simon S. Lam",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Simon S. Lam",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Simon S. Lam",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Simon S. Lam",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Simon S. Lam",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Simon S. Lam",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Simon S. Lam",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Simon S. Lam",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hariharan Rahul",
+   "Venue": "SIGCOMM",
+   "Submissions": 9
+ },
+ {
+   "Author": "Hariharan Rahul",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hariharan Rahul",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hariharan Rahul",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hariharan Rahul",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hariharan Rahul",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hariharan Rahul",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hariharan Rahul",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hariharan Rahul",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hariharan Rahul",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hariharan Rahul",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Guru M. Parulkar",
+   "Venue": "SIGCOMM",
+   "Submissions": 9
+ },
+ {
+   "Author": "Guru M. Parulkar",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Guru M. Parulkar",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Guru M. Parulkar",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Guru M. Parulkar",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Guru M. Parulkar",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Guru M. Parulkar",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Guru M. Parulkar",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Guru M. Parulkar",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Guru M. Parulkar",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Guru M. Parulkar",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Venkat N. Padmanabhan",
+   "Venue": "SIGCOMM",
+   "Submissions": 9
+ },
+ {
+   "Author": "Venkat N. Padmanabhan",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Venkat N. Padmanabhan",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Venkat N. Padmanabhan",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Venkat N. Padmanabhan",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Venkat N. Padmanabhan",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Venkat N. Padmanabhan",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Venkat N. Padmanabhan",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Venkat N. Padmanabhan",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Venkat N. Padmanabhan",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Venkat N. Padmanabhan",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Keshav",
+   "Venue": "SIGCOMM",
+   "Submissions": 9
+ },
+ {
+   "Author": "Srinivasan Keshav",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Keshav",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Keshav",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Keshav",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Keshav",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Keshav",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Keshav",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Keshav",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Keshav",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Srinivasan Keshav",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "David R. Cheriton",
+   "Venue": "SIGCOMM",
+   "Submissions": 9
+ },
+ {
+   "Author": "David R. Cheriton",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "David R. Cheriton",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "David R. Cheriton",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "David R. Cheriton",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "David R. Cheriton",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "David R. Cheriton",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "David R. Cheriton",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "David R. Cheriton",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "David R. Cheriton",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "David R. Cheriton",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Olaf Maennel",
+   "Venue": "SIGCOMM",
+   "Submissions": 9
+ },
+ {
+   "Author": "Olaf Maennel",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Olaf Maennel",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Olaf Maennel",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Olaf Maennel",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Olaf Maennel",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Olaf Maennel",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Olaf Maennel",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Olaf Maennel",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Olaf Maennel",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Olaf Maennel",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "David D. Clark",
+   "Venue": "SIGCOMM",
+   "Submissions": 9
+ },
+ {
+   "Author": "David D. Clark",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "David D. Clark",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "David D. Clark",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "David D. Clark",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "David D. Clark",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "David D. Clark",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "David D. Clark",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "David D. Clark",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "David D. Clark",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "David D. Clark",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Amogh Dhamdhere ",
+   "Venue": "SIGCOMM",
+   "Submissions": 1
+ },
+ {
+   "Author": "Amogh Dhamdhere ",
+   "Venue": "IMC",
+   "Submissions": 8
+ },
+ {
+   "Author": "Amogh Dhamdhere ",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Amogh Dhamdhere ",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Amogh Dhamdhere ",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Amogh Dhamdhere ",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Amogh Dhamdhere ",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Amogh Dhamdhere ",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Amogh Dhamdhere ",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Amogh Dhamdhere ",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Amogh Dhamdhere ",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthias Wählisch",
+   "Venue": "SIGCOMM",
+   "Submissions": 8
+ },
+ {
+   "Author": "Matthias Wählisch",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthias Wählisch",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthias Wählisch",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthias Wählisch",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthias Wählisch",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthias Wählisch",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthias Wählisch",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthias Wählisch",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthias Wählisch",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Matthias Wählisch",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thomas C. Schmidt",
+   "Venue": "SIGCOMM",
+   "Submissions": 8
+ },
+ {
+   "Author": "Thomas C. Schmidt",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thomas C. Schmidt",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thomas C. Schmidt",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thomas C. Schmidt",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thomas C. Schmidt",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thomas C. Schmidt",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thomas C. Schmidt",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thomas C. Schmidt",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thomas C. Schmidt",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Thomas C. Schmidt",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Chuanxiong Guo",
+   "Venue": "SIGCOMM",
+   "Submissions": 8
+ },
+ {
+   "Author": "Chuanxiong Guo",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Chuanxiong Guo",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Chuanxiong Guo",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Chuanxiong Guo",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Chuanxiong Guo",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Chuanxiong Guo",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Chuanxiong Guo",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Chuanxiong Guo",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Chuanxiong Guo",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Chuanxiong Guo",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lee Breslau",
+   "Venue": "SIGCOMM",
+   "Submissions": 8
+ },
+ {
+   "Author": "Lee Breslau",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lee Breslau",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lee Breslau",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lee Breslau",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lee Breslau",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lee Breslau",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lee Breslau",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lee Breslau",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lee Breslau",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lee Breslau",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Brighten Godfrey",
+   "Venue": "SIGCOMM",
+   "Submissions": 8
+ },
+ {
+   "Author": "Brighten Godfrey",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Brighten Godfrey",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Brighten Godfrey",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Brighten Godfrey",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Brighten Godfrey",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Brighten Godfrey",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Brighten Godfrey",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Brighten Godfrey",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Brighten Godfrey",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Brighten Godfrey",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hongqiang Harry Liu",
+   "Venue": "SIGCOMM",
+   "Submissions": 8
+ },
+ {
+   "Author": "Hongqiang Harry Liu",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hongqiang Harry Liu",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hongqiang Harry Liu",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hongqiang Harry Liu",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hongqiang Harry Liu",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hongqiang Harry Liu",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hongqiang Harry Liu",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hongqiang Harry Liu",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hongqiang Harry Liu",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Hongqiang Harry Liu",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kyle Jamieson",
+   "Venue": "SIGCOMM",
+   "Submissions": 8
+ },
+ {
+   "Author": "Kyle Jamieson",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kyle Jamieson",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kyle Jamieson",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kyle Jamieson",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kyle Jamieson",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kyle Jamieson",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kyle Jamieson",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kyle Jamieson",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kyle Jamieson",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Kyle Jamieson",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lihua Yuan",
+   "Venue": "SIGCOMM",
+   "Submissions": 8
+ },
+ {
+   "Author": "Lihua Yuan",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lihua Yuan",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lihua Yuan",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lihua Yuan",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lihua Yuan",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lihua Yuan",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lihua Yuan",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lihua Yuan",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lihua Yuan",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Lihua Yuan",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Don Towsley",
+   "Venue": "SIGCOMM",
+   "Submissions": 8
+ },
+ {
+   "Author": "Don Towsley",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Don Towsley",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Don Towsley",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Don Towsley",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Don Towsley",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Don Towsley",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Don Towsley",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Don Towsley",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Don Towsley",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Don Towsley",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Brighten Godfrey",
+   "Venue": "SIGCOMM",
+   "Submissions": 8
+ },
+ {
+   "Author": "Brighten Godfrey",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Brighten Godfrey",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Brighten Godfrey",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Brighten Godfrey",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Brighten Godfrey",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Brighten Godfrey",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Brighten Godfrey",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Brighten Godfrey",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Brighten Godfrey",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Brighten Godfrey",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Dongsu Han",
+   "Venue": "SIGCOMM",
+   "Submissions": 8
+ },
+ {
+   "Author": "Dongsu Han",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Dongsu Han",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Dongsu Han",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Dongsu Han",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Dongsu Han",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Dongsu Han",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Dongsu Han",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Dongsu Han",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Dongsu Han",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Dongsu Han",
+   "Venue": "ANCS",
+   "Submissions": 0
+ },
+ {
+   "Author": "Andrew W. Moore",
+   "Venue": "SIGCOMM",
+   "Submissions": 8
+ },
+ {
+   "Author": "Andrew W. Moore",
+   "Venue": "IMC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Andrew W. Moore",
+   "Venue": "CoNext",
+   "Submissions": 0
+ },
+ {
+   "Author": "Andrew W. Moore",
+   "Venue": "ICN",
+   "Submissions": 0
+ },
+ {
+   "Author": "Andrew W. Moore",
+   "Venue": "E-Energy",
+   "Submissions": 0
+ },
+ {
+   "Author": "Andrew W. Moore",
+   "Venue": "SenSys",
+   "Submissions": 0
+ },
+ {
+   "Author": "Andrew W. Moore",
+   "Venue": "SoSR",
+   "Submissions": 0
+ },
+ {
+   "Author": "Andrew W. Moore",
+   "Venue": "LANC",
+   "Submissions": 0
+ },
+ {
+   "Author": "Andrew W. Moore",
+   "Venue": "HotNets",
+   "Submissions": 0
+ },
+ {
+   "Author": "Andrew W. Moore",
+   "Venue": "ANRW",
+   "Submissions": 0
+ },
+ {
+   "Author": "Andrew W. Moore",
+   "Venue": "ANCS",
+   "Submissions": 0
+ }
+]
