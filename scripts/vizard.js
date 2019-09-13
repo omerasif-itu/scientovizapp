@@ -129,7 +129,7 @@ function topKAuthors(){
                 "bind": {"input": "range", "min": 1, "max": 100, "step": 5}
             },
             {
-                "name": "op", "value": "average",
+                "name": "op", "value": "sum",
                 "bind": {"input": "select", "options": ["average", "median", "sum"]}
             },
             {
