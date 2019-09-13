@@ -54,9 +54,9 @@ function venueBars() {
                     "type": "nominal",
                     "scale": {
                         "domain": ["SIGCOMM", "IMC", "CoNext", "ICN", "E-Energy", "SenSys", "SoSR", "LANC", "HotNets", "ANRW", "ANCS"],
-                        "range": ["#e7ba52", "#c7c7c7", "#aec7e8", "#1f77b4", "#9467bd",
-                            "#0d1db5", '#8315b5', '#0aaeb5', '#10b578',
-                            '#b53c03', '#b50033', '#68adb5']
+                        "range": ["#e7ba52", "#c74235", "#aec7e8", "#1f77b4", "#9467bd",
+                            "#89b509", '#b293b5', '#0a8bb5', '#10b578',
+                            '#b53c03', '#980cb5', '#0845b5']
                     },
                     "legend": {"title": "Venues"}
                 },
