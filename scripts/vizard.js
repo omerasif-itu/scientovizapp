@@ -36,7 +36,8 @@ function venueBars() {
                     "axis": {
                         "title": "Submissions",
                         "orient":"top"
-                    }
+                    },
+                    "scale": {"domain": [0,100]}
                 },
                 "y": {
                     "field": "Author",
