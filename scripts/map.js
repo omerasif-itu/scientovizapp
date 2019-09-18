@@ -549,7 +549,7 @@ function vegamapexp() {
                         fill:{"scale":"color", "field":"rank"},
                         stroke:{"value":"white"},
                         "strokeWidth": {"value": 0.5},
-                        "tooltip": {"signal": "{'Country': datum.country, 'No. of Publication':datum.frequency, 'Rank':datum.rank}"}
+                        "tooltip": {"signal": "{'Country': datum.country, 'No. of Publications':datum.frequency, 'Rank':datum.rank}"}
                     },
                     "hover": {
                         "size":{"value":300},
