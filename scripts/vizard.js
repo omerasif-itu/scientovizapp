@@ -188,9 +188,11 @@ function topKAuthors(){
                         "x2": {"scale": "x", "field": "pub_count"},
                         "y": {"scale": "y", "field": "Author"},
                         "height": {"scale": "y", "band": 1},
-                        "tooltip":{"signal":"datum"}
+                        "tooltip":{"signal":"datum"},
+                        "fill":{"value":"#0000FF"} //rainbow blue
                     }
                 }
+
             }
         ],
         "scales": [
