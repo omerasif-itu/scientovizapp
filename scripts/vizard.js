@@ -136,11 +136,11 @@ function topKAuthors(){
             },
             {
                 "name": "op", "value": "sum",
-                "bind": {"input": "select", "options": ["average", "median", "sum"]}
+                "bind": {"input": "select", "options": ["average", "sum"]}
             },
             {
                 "name": "label",
-                "value": {"average": "Average", "median": "Median", "sum": "Total"}
+                "value": {"average": "Average", "sum": "Total"}
             }
         ],
 
