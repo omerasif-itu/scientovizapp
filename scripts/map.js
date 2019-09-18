@@ -354,6 +354,7 @@ function vegamapexp() {
     d3.select("h1").text("Rank of Countries by Publications")
     d3.select('p').text("")
     var spec = {
+        "padding": {"left": 80, "top": 5, "right": 5, "bottom": 5},
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "width": 900,
         "height": 500,
@@ -484,7 +485,7 @@ function vegamapexp() {
                 "name": "color",
                 "type": "quantize",
                 "domain": {"data": "ranks", "field": "rank"},
-                "range": {"scheme": "rainbow", "count":59, "extent":[1,0]}
+                "range": {"scheme": "redyellowgreen", "count":59, "extent":[1,0]}
             }
         ],
         "legends": [
@@ -522,8 +523,8 @@ function vegamapexp() {
                 "encode": {
                     "enter": {
                         "strokeWidth": {"value": 0.5},
-                        "stroke": {"value": "#9a9a9a"},
-                        "fill": {"value": "#e5e8d3"}
+                        "stroke": {"value": "#b3d0e8"},
+                        "fill": {"value": "#ecf3f9"}
                     }
                 },
                 "transform": [
