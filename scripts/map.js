@@ -352,6 +352,7 @@ function vegamap() {
 function vegamapexp() {
 
     d3.select("h1").text("Rank of Countries by Publications")
+    d3.select('p').text("")
     var spec = {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "width": 900,
