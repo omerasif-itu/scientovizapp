@@ -118,8 +118,8 @@ function topKAuthors(){
     var vegsp = {
         "$schema": "https://vega.github.io/schema/vega/v4.json",
         "width": 500,
-        "height": 410,
-        "padding": 5,
+        "height": 375,
+        "padding": {"left": 30, "top": 5, "right": 5, "bottom": 5},
         "autosize": "fit",
         "signals": [
             {
@@ -132,7 +132,7 @@ function topKAuthors(){
             },
             {
                 "name": "k", "value": 10,
-                "bind": {"input": "range", "min": 1, "max": 100, "step": 5}
+                "bind": {"input": "range", "min": 1, "max": 30, "step": 1}
             },
             {
                 "name": "op", "value": "sum",
