@@ -189,7 +189,7 @@ function topKAuthors(){
                         "y": {"scale": "y", "field": "Author"},
                         "height": {"scale": "y", "band": 1},
                         "tooltip":{"signal":"datum"},
-                        "fill":{"value":"#0000FF"} //rainbow blue
+                        "fill":{"value":"#4285F4"} //google blue
                     }
                 }
 
